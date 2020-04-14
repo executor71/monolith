@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/mydevops15/user15devops1/_apis/build/status/monolith-classic-CI?branchName=master)](https://dev.azure.com/mydevops15/user15devops1/_build/latest?definitionId=3&branchName=master)
+
+
 # monolith
 참고:  
 Order 와 product 는 N:1 (다대일) 관계이다.  
